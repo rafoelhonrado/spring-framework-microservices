@@ -47,6 +47,11 @@
 		<module>spring-inventory-service</module>
 		<module>spring-discovery-server</module>
 		<module>spring-api-gateway</module>
+		<module>example</module>
+		<module>spring-product-microservice</module>
+		<module>spring-order-microservice</module>
+		<module>spring-inventory-microservice</module>
+		<module>spring-gateway-microservice</module>
 	</modules>
 
 	<build>
